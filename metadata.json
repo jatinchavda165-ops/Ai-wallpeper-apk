@@ -1,0 +1,6 @@
+{
+  "name": "WallpaperCraft AI - Prompts & Studio",
+  "description": "Curated collection of 4K AI wallpaper prompts, interactive prompt builder, live phone/desktop preview, and AI wallpaper generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
